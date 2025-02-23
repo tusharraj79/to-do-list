@@ -1,2 +1,2 @@
 # to-do-list
-here is my first project using html and css
+(https://tusharraj79.github.io/to-do-list/)
